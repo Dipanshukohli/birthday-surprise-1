@@ -1,8 +1,8 @@
 /* ============ CONFIG — customize this per person ============ */
 const CONFIG = {
-  correctPin: "1107",     // the 4-digit PIN e.g. DDMM (11th July)
-  recipientName: "Fahimm",
-  senderName: "Raazik",
+  correctPin: "1712",     // the 4-digit PIN e.g. DDMM (11th July)
+  recipientName: "Deepanshu",
+  senderName: "Kohli",
   autoplayMusic: true
 };
 
